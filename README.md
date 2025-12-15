@@ -19,3 +19,6 @@ If you are developing a production application, we recommend using TypeScript wi
 # aws-notes-frontend
 aws-notes-frontend
 >>>>>>> cbf77cd51d5cb98bfa5613aa9184491ac16af92c
+
+
+Deployed via AWS Amplify
